@@ -1,8 +1,9 @@
 
 DATA ENGINEERING ON AWS
 
-Introduction & Goals
-This is a project that involves building a platform and pipeline om AWS for Data Engineering.
+Introduction
+
+This is a project that involves building a platform and pipeline on AWS for Data Engineering.
 
 CONTENTS
 - [The Data Set](#the-data-set)
